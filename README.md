@@ -1,5 +1,7 @@
 ### Hi there I'm Peter! 👋
 
+Hi there, I'm Peter! I'm a Bay Area native who's looking to write his own fairy tail ending for myself. I'm the type of person, who doesn't do well with free time, so I try to do keep myself busy by doing something new everyday. I like going on food adventures, playing sports and programming to make something that I find interesting or fun! As for my technical background, I graduated from University of California, Irvine and have a B.S degree in Computer Science. I also went through a rigorous 1000 hour coding bootcamp called App Academy to give myself a software update on how modern technology works today and looking for the next chapter of my life and hopefully you can join in! As for the technology that I'm currently familiar with, here's a list for you! Python | JavaScript | ReactJs | PostgreSQL | Sequelize | Node.js | Flask | SQLAlchemy | HTML | CSS
+
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=petershinnn&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### 📫 How to reach me: petershin731@gmail.com
 
